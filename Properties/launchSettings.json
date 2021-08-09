@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Asm3": {
+      "commandName": "Project",
+      "commandLineArgs": "q2 a3q2-zna3.txt column"
+    }
+  }
+}
