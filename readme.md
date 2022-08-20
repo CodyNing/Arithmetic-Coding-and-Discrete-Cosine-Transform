@@ -1,4 +1,8 @@
-﻿# How to compile:
+# Arithmetic-Coding-and-Discrete-Cosine-Transform
+
+Arithmetic coding and Discrete Cosine Transform implementation in C#.
+
+# How to compile:
 ## Supported Platform:
     Windows10 64-bit
 ## Prerequisite:
